@@ -1,16 +1,10 @@
-# An elegant landing page using html-css
+# A landing page using html-css
 
-This project is more than a landing page, because i'm using stylus for compiling css and it's amazing the way to organize de code using variables, imports and other details.
+This project is an exercice from course about html landing page,
 
-This landing page is 100% responsive. You can use it  to learn and make a lot of cool things.
+Goal was to create a landing page for a personal agency with a map, contact part ...
+This landing page is 100% responsive.
 
-Clone, enjoy and give me a star!
-
-## Demo
-You can see the demo [here](https://anabelisam.github.io/landing-html-css/)
-
-## Preview
-![](/preview.png)
 
 After clone this project you have to run:
 ### Install project
